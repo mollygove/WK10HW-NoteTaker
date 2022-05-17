@@ -2,6 +2,9 @@
 
 # Express.js route app that allows the user to create, save, and delete notes.
 
+https://mollygove.github.io/WK10HW-NoteTaker/
+https://github.com/mollygove/WK10HW-NoteTaker
+
 Image
 
 # User Story
