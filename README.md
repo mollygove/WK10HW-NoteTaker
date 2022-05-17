@@ -23,7 +23,7 @@ Copy the repository from Github, by either creating a clone or downloading the z
 Run npm i to install required packages. 
 Run node server.js to launch application locally as pictured below. 
 
-Image of Note taker start Instructions
+![Listening Server](/listening%20server%20image.JPG)
 
 
 # Local Port
