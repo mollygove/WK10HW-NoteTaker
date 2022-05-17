@@ -5,7 +5,7 @@
 https://mollygove.github.io/WK10HW-NoteTaker/
 https://github.com/mollygove/WK10HW-NoteTaker
 
-Image
+![NoteTakerwebpage](/NoteTakerimg.png)
 
 # User Story
 AS A user, I want to be able to write and save notes
